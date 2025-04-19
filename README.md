@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/94732917?s=400&u=d79e03c5d9acaa81198c7c8ec75e5efbbfa6423c&v=4" alt="Jacob" width="150" height="150">
+<img src="https://avatars.githubusercontent.com/u/94732917?v=4" alt="Jacob" width="150" height="150">
 
 # Hi, I'm Jacob 
 
