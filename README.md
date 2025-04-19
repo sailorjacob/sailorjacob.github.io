@@ -1,4 +1,5 @@
 ![Profile Picture](https://github.com/sailorjacob/profile.jpg)
+<img src="https://avatars.githubusercontent.com/u/sailorjacob?v=4" alt="Jacob" width="150" height="150">
 
 # Hi, I'm Jacob 
 
