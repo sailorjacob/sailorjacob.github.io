@@ -20,7 +20,7 @@ I'm a **creative technologist** blending **UI/UX design, Digital Creative master
 - **be-loved.app**: Software for non-emergency medical transportation
 - **ammocat3000**: AI-generated art and music videos
 - **roundabout.run**: Immersive AI experiences
-- **Jacob Hale Studio**: Design for music artists and brands
+- **jacobhalestudio**: Design for music artists and brands
 
 ## Background
 - **Vine Beginnings**: Discovered Vine on day one in high school, grew a following with stop-motion animations, and learned the power of organic communities.
