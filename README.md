@@ -34,7 +34,7 @@ I'm a **creative technologist** blending **UI/UX design, Digital Creative master
 ## Connect with Me
 - [GitHub](https://github.com/sailorjacob)
 - [LinkedIn](https://www.linkedin.com/in/jacobhalestudio)
-- [X](https://x.com/killmefxster)
+- [X](https://x.com/rationmachine)
 - [Website](https://jacobhalestudio.net)
 
 I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into AI, design, or building the future!
