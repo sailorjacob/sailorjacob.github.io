@@ -32,9 +32,10 @@ I'm a **creative technologist** blending **UI/UX design, Digital Creative master
 - Aspiring to build at the Network School, starting July 1st, 2025.
 
 ## Connect with Me
-- [GitHub](https://github.com/sailorjacob)
-- [LinkedIn](https://www.linkedin.com/in/jacobhalestudio)
-- [X](https://x.com/killmefxster)
 - [Website](https://jacobhalestudio.net)
+- [LinkedIn](https://www.linkedin.com/in/jacobhalestudio)
+- [GitHub](https://github.com/sailorjacob)
+- [X](https://x.com/killmefxster)
+
 
 I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into AI, design, or building the future!
