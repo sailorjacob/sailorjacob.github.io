@@ -18,7 +18,7 @@ I'm a **creative technologist** blending **UI/UX design, Digital Creative master
 
 ## Projects
 - **be-loved.app**: Software for non-emergency medical transportation
-- **ammocat3000**: AI-generated art and music videos
+- **ammocat3000**: AI-generated character and series
 - **roundabout.run**: Immersive AI experiences
 - **jacobhalestudio**: Design for music artists and brands
 
