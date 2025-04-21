@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1 style="margin: 0;">Hi, I'm Jacob ~
-<a href="/vision-for-the-future.md" style="color: #0366d6;">        Click to Read: A Vision for the Future</h1>
+<a href="./vision-for-the-future.md" style="color: #0366d6; text-decoration: underline;">A Vision for the Future:</a>  </h1>
     <div style="text-align: right;">
         
 </div>
