@@ -2,7 +2,7 @@
 
 # Hi, I'm Jacob 
 
-I'm a **creative technologist** blending **Digital Creative mastery , UI/UX design, and AI implements** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[jacobhalestudio](https://jacobhalestudio.net)**, **[be-loved.app](http://be-loved.app/about)**, **[ammocat3000](https://ammocat3000.com)**, and **[roundabout.run](https://roundabout.run)**.
+I'm a **Creative Technologist** blending **Digital Creative Mastery , UI/UX design, and AI Implements** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[jacobhalestudio](https://jacobhalestudio.net)**, **[be-loved.app](http://be-loved.app/about)**, **[ammocat3000](https://ammocat3000.com)**, and **[roundabout.run](https://roundabout.run)**.
 
 ## About Me
 - **Creative Technologist**: Specializing in UI/UX design and Adobe Creative Suite.
