@@ -4,7 +4,7 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product D
 
 ## About Me
 
-- **Creative Technologist**: Specializing in Product Design and Adobe Creative Suite.
+- **Creative Technologist**: I love learning and building the future.
 - **AI Enthusiast**: Using tools like Midjourney, Udio, and Cursor for innovative projects.
 - **Entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
 - **Storyteller**: From Vine stop-motion animations to AI-generated music videos.
