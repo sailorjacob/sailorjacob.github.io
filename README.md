@@ -7,7 +7,7 @@
         
 </div>
 
-I'm a **Creative & Technologist** blending **Digital Creative Mastery , UI/UX design, and AI Implements** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[jacobhalestudio](https://jacobhalestudio.net)**, **[be-loved.app](http://be-loved.app/about)**, **[ammocat3000](https://ammocat3000.com)**, and **[roundabout.run](https://roundabout.run)**.
+I'm a **Creative & Technologist** blending **Digital Creative Mastery , UI/UX design, and AI Implements** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[jacobhalestudio.net](https://jacobhalestudio.net)**, **[Lisa Mona](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA)**, **[moonlight garden](https://haven.engineer/moonlight-garden)**, **[haven.engineer](https://haven.engineer)**, and **[roundabout.run](https://roundabout.run)**, **[ammocat3000](https://ammocat3000.com)**, & **[be-loved.app](http://be-loved.app/about)**.
 
 ## About Me
 - **Creative Technologist**: Specializing in UI/UX design and Adobe Creative Suite.
