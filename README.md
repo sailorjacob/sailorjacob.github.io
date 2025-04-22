@@ -17,10 +17,10 @@ I'm a **Creative & Technologist** blending **Digital Creative Mastery , UI/UX de
 - **Marketing**: Growth-hacking, social media strategy
 
 ## Projects
-- **be-loved.app**: Software for non-emergency medical transportation
-- **ammocat3000**: AI-generated character and series
-- **roundabout.run**: Immersive AI experiences
-- **jacobhalestudio**: Design for music artists and brands
+- **BeLoved Web App**: Software for non-emergency medical transportation
+- **Ammo Cat**: AI-generated character and series
+- **Roundabout**: AI auto experiences
+- **jacobhalestudio**: Portfolio
 
 ## Background
 - **Vine Beginnings**: Discovered Vine on day one in high school, grew a following with stop-motion animations, and learned the power of organic communities.
