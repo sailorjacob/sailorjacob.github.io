@@ -1,6 +1,6 @@
 # Technology, Music, Politics, and Art: A Vision for the Future
 
-This letter notes the signifigant intertwine between **technology**, **music**, **politics**, and **art**. A recount of observations, personal experience, and aspirations of a more free and unrestricted future.
+This summarizes my perspective on **technology**, **music**, **politics**, and **art**. A recount of observations, personal experience, and aspirations of a more free and unrestricted future.
 
 ## Tech, Music, and the Future
 
