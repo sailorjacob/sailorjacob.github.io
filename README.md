@@ -33,7 +33,7 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product D
 ## Current Focus
 
 - Building **be-loved.app** to modernize non-emergency medical transportation.
-- Aspiring to build Network States
+- Aspiring to design Network States
 
 ## Connect with Me
 
