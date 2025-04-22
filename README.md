@@ -2,10 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1 style="margin: 0;">Hi, I'm Jacob </h1>    
-<a href="https://haven.engineer/letter" style="color: #0366d6; text-decoration: underline;">Read: A Vision for the Future:</a> 
-    <div style="text-align: right;">
-        
-</div>
+
 
 I'm a **Creative & Technologist** blending **Digital Creative Mastery , UI/UX design, and AI Implements** to build impactful projects. With a background in growth-hacking at a multi-million dollar ad startup and a passion for pushing creative boundaries, I design everything from logos for signed music artists to software solutions for healthcare. My work spans **[jacobhalestudio.net](https://jacobhalestudio.net)**, **[Lisa Mona](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA)**, **[moonlight garden](https://haven.engineer/moonlight-garden)**, **[haven.engineer](https://haven.engineer)**, and **[roundabout.run](https://roundabout.run)**, **[ammocat3000](https://ammocat3000.com)**, & **[be-loved.app](http://be-loved.app/about)**.
 
