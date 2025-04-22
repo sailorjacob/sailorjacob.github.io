@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/94732917?v=4" alt="Jacob" width="150" height="150">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h1 style="margin: 0;">Hi, I'm Jacob ~ </h1>    
+    <h1 style="margin: 0;">Hi, I'm Jacob</h1>    
 <a href="https://haven.engineer/letter" style="color: #0366d6; text-decoration: underline;">Read: A Vision for the Future:</a>  </h1>
     <div style="text-align: right;">
         
