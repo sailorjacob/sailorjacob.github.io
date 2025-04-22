@@ -1,8 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/94732917?v=4" alt="Jacob" width="150" height="150">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h1 style="margin: 0;">Hi, I'm Jacob ~
-<a href="./vision-for-the-future.md" style="color: #0366d6; text-decoration: underline;">A Vision for the Future:</a>  </h1>
+    <h1 style="margin: 0;">Hi, I'm Jacob ~ </h1>    
+<a href="https://haven.engineer/letter" style="color: #0366d6; text-decoration: underline;">Read: A Vision for the Future:</a>  </h1>
     <div style="text-align: right;">
         
 </div>
@@ -30,7 +30,7 @@ I'm a **Creative Technologist** blending **Digital Creative Mastery , UI/UX desi
 ## Background
 - **Vine Beginnings**: Discovered Vine on day one in high school, grew a following with stop-motion animations, and learned the power of organic communities.
 - **Fooji Growth-Hacking**: Joined as the third member of Fooji, a startup originally about ordering food via Twitter emojis. My viral One Direction giveaway shaped its shift to a multi-million dollar ad model. 
-- **Indiana University**: Studied advertising, where Michael Uslan (producer of *The Dark Knight*) taught me Hollywood’s billion-dollar adaptations for China—no ghosts allowed.
+- **Indiana University**: Studied advertising, where Michael Uslan (producer of *The Dark Knight*) taught me Hollywood’s billion-dollar adaptations for China: no ghosts allowed.
 
 ## Current Focus
 - Building **be-loved.app** to modernize non-emergency medical transportation.
