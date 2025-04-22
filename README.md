@@ -20,7 +20,7 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product D
 
 - **BeLoved Web App**: Software for non-emergency medical transportation
 - **Ammo Cat**: AI-generated character and series
-- **Roundabout**: AI auto experiences
+- **Roundabout**: AI robot armies
 - **jacobhalestudio**: Portfolio
 
 ## Background
@@ -33,7 +33,7 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product D
 ## Current Focus
 
 - Building **be-loved.app** to modernize non-emergency medical transportation.
-- Aspiring to build at the Network School, starting July 1st, 2025.
+- Aspiring to build Network States
 
 ## Connect with Me
 
