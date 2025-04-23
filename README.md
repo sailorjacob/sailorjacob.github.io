@@ -10,8 +10,8 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 
 ## Field
 
-- **Graphic Design**: Photoshop, After Effects, Product Design
 - **Front-End Design**: UI/UX
+- **Graphic Design**: Photoshop, After Effects, Product Design
 - **Advertising**: Growth-hacking, social strategy
 - **AI Tools**: Midjourney, Udio, Grok
 
