@@ -1,13 +1,12 @@
 <img src="https://avatars.githubusercontent.com/u/94732917?v=4" alt="Jacob" width="150" height="150">
 
-I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product Design, and AI Prompting** to build special projects. My work inspired [**Fooji**](https://fooji.com/)’s pivot to a multimillion-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. My projects include [**jacobhalestudio.net**](https://jacobhalestudio.net), [**Lisa Mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), [**moonlight garden**](https://haven.engineer/moonlight-garden), [**haven.engineer**](https://haven.engineer), [**roundabout.run**](https://roundabout.run), [**Bitcoin Bank**](https://haven.engineer/bitcoinbank), [**ammocat3000**](https://ammocat3000.com), & [**be-loved.app**](http://be-loved.app/about).
+I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product Design, and AI Prompting** to build special projects. My work inspired [**Fooji**](https://fooji.com/)’s pivot to a multimillion-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. My projects include [**jacobhalestudio.net**](https://jacobhalestudio.net), [**Lisa Mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), [**moonlight garden**](https://haven.engineer/moonlight-garden), [**haven.engineer**](https://haven.engineer), [**roundabout.run**](https://roundabout.run), [**Bitcoin Bee's**](https://haven.engineer/bitcoinbank), [**ammocat3000**](https://ammocat3000.com), & [**be-loved.app**](http://be-loved.app/about).
 
 ## About Me
 
 - **Creative Technologist**: I love learning and building the future.
-- **AI Enthusiast**: Loving tools like Midjourney, Udio, and Cursor.
 - **Entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
-- **Storyteller**: From Vine stop-motion animations to this AI-generated music video.
+- **Storyteller**:  stop-motion animations to [**ai-generated music videos**](https://twejikjgxkzmphocbvpt.supabase.co/storage/v1/object/public/images//6999.mp4).
 
 ## Field
 
@@ -18,9 +17,9 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product D
 
 ## Projects
 
-- **BeLoved Web App**: Software for non-emergency medical transportation
-- **Ammo Cat**: AI-generated character and series
-- **Roundabout**: AI robot armies
+- **BeLoved iOS App**: full-stack for non-emergency medical transportation provider
+- **Ammo Cat**: My AI-generated character and series
+- **Roundabout**: self-driving fleets
 - **jacobhalestudio**: Portfolio
 
 ## Background
