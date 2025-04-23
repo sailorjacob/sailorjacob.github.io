@@ -6,7 +6,7 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 
 - **Creative Technologist**: I love learning and building the future.
 - **Entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
-- **Storyteller**:  stop-motion animations to [**ai-generated music videos**](https://twejikjgxkzmphocbvpt.supabase.co/storage/v1/object/public/images//REDXX.mp4).
+- **Storyteller**:  stop-motion animations, [**ai music video generations**](https://twejikjgxkzmphocbvpt.supabase.co/storage/v1/object/public/images//REDXX.mp4).
 
 ## Field
 
