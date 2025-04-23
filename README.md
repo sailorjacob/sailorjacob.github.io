@@ -42,4 +42,4 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Graphics, Product D
 - [GitHub](https://github.com/sailorjacob)
 - [X](https://x.com/killmefxster)
 
-I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into AI, design, or building the future!
+I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into AI, fine art, or designing the world
