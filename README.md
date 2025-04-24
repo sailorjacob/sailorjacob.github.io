@@ -20,9 +20,9 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 ## Projects
 
 - **BeLoved iOS App**: full-stack for non-emergency medical transportation provider
-- **Ammo Cat**: My AI-generated character and series
-- **Roundabout**: self-driving fleets
-- **jacobhalestudio**: Portfolio
+- **Ammo Cat**: My AI-generated character and game series
+- **Roundabout**: Self-driving assets
+- **jacobhalestudio**: Photography
 
 ## Background
 
