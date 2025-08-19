@@ -4,17 +4,17 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 
 ## About Me
 
-- **Creative Technologist**: I love learning and building the future.
-- **Entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
-- **Storyteller**:  stop-motion animations, [**music videos**](https://twejikjgxkzmphocbvpt.supabase.co/storage/v1/object/public/images//REDXX.mp4).
+- **creative technologist**: I love learning and building the future.
+- **entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
+- **storyteller**:  stop-motion animations, music videos.
 
 ## Field
 
-- **Front-End Design**: UI/UX
-- **Audio Production**: Production, mixing, ableton
-- **Graphic Design**: Photoshop, After Effects, Product Design
-- **Advertising**: Growth-hacking, social strategy
-- **AI Tools**: Cursor, Midjourney, Udio, Grok
+- **front-end design**: UI/UX
+- **audio production**: Production, mixing, ableton
+- **graphic design**: Photoshop, After Effects, Product Design
+- **advertising**: Growth-hacking, social strategy
+- **ai tools**: Cursor, Midjourney, Udio, Grok
 
 
 
@@ -22,7 +22,7 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 
 - **BeLoved iOS App**: full-stack for non-emergency medical transportation provider
 - **Ammo Cat**: My AI-generated character and game series
-- **Roundabout**: Self-driving assets
+- **Haven**: Design agency
 - **jacobhalestudio**: Photography
 
 ## Background
