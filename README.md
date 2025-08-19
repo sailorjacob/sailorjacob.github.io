@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/94732917?v=4" alt="Jacob" width="150" height="150">
 
-I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product Design, and Prompting** to build special projects. My work inspired [**Fooji**](https://fooji.com/)’s pivot to a multimillion-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. My projects include [**jacobhalestudio.net**](https://jacobhalestudio.net), [**Lisa Mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), [**moonlight garden**](https://haven.engineer/moonlight-garden), [**haven.engineer**](https://haven.engineer), [**roundabout.run**](https://roundabout.run), [**Bitcoin Bee's**](https://haven.engineer/bitcoinbank), [**ammocat3000**](https://ammocat3000.com), & [**be-loved.app**](http://be-loved.app/about).
+I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product Design, and Prompting** to build special projects. My work inspired [**Fooji**](https://fooji.com/)’s pivot to a multimillion-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. My projects include [**jacobhalestudio.net**](https://jacobhalestudio.net), [**Lisa Mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), [**moonlight garden**](https://haven.engineer/moonlight-garden), [**haven.engineer**](https://haven.engineer), [**sojourn**](https://sojourn.city), [**Bitcoin Bee's**](https://haven.engineer/bitcoinbank), [**ammocat3000**](https://ammocat3000.com), & [**be-loved.app**](http://be-loved.app/about).
 
 ## About Me
 
@@ -11,9 +11,10 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 ## Field
 
 - **Front-End Design**: UI/UX
+- **Audio Production**: Production, mixing, ableton
 - **Graphic Design**: Photoshop, After Effects, Product Design
 - **Advertising**: Growth-hacking, social strategy
-- **AI Tools**: Midjourney, Udio, Grok
+- **AI Tools**: Cursor, Midjourney, Udio, Grok
 
 
 
@@ -38,9 +39,9 @@ I'm a **Artist & Entrepreneur** blending **History, Imagery, Aesthetic, Product 
 
 ## Connect with Me
 
-- [Website](https://jacobhalestudio.net)
+- [Website](https://haven.engineer)
 - [LinkedIn](https://www.linkedin.com/in/jacobhalestudio)
 - [GitHub](https://github.com/sailorjacob)
-- [X](https://x.com/killmefxster)
+- [X](https://x.com/rationmachine)
 
 I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into AI, fine art, or designing the world
