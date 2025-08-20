@@ -2,29 +2,28 @@
 
 I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product design, and prompting** to build special projects. My work inspired [**fooji**](https://fooji.com/)’s pivot to a million-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. My projects include [**jacobhalestudio.net**](https://jacobhalestudio.net), [**haven.engineer**](https://haven.engineer), [**lisa mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), [**moonlight garden**](https://haven.engineer/moonlight-garden), [**sojourn**](https://sojourn.city), [**bitcoin bee's**](https://haven.engineer/bitcoinbank), [**ammocat3000**](https://ammocat3000.com), & [**be-loved.app**](http://be-loved.app/about).
 
-## About Me
+## about 
 
 - **creative technologist**: I love learning and building the future.
 - **entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
 - **storyteller**:  stop-motion animations, music videos.
 
-## Field
+## interests
 
-- **audio production**: Production, mixing, ableton
-- **graphic design**: Photoshop, After Effects, Product Design
-- **advertising**: Growth-hacking, social strategy
-- **ai tools**: Cursor, Midjourney, Udio, Grok
+- **audio production**: production, mixing, ableton
+- **graphic design**: photoshop, pixlr, product
+- **advertising**: growth-hacking, social strategy
+- **ai tools**: cursor, midjourney, udio, grok
 
 
 
-## Projects
+## special projects
 
-- **BeLoved iOS App**: full-stack for non-emergency medical transportation provider
-- **Ammo Cat**: My AI-generated character and game series
-- **Haven**: Design agency
-- **jacobhalestudio**: Photography
+- **Ammo Cat**: ai-generated character and game series
+- **Haven**: design + branding agency
+- **jacobhalestudio**: photography
 
-## Background
+## background
 
 - **Early Beginnings**: Discovered Vine on day one in high school, grew a following with stop-motion animations, and learned the power of organic communities.
 - **Social-Hacking**: I joined a start-up [**fooji**](https://fooji.com/) as the third member, originally focused on ordering food via Twitter emojis. Through a successful activation of a concert ticket giveaway on my One Direction fan account, I inspired their pivot to an activations based business model.
@@ -34,7 +33,7 @@ I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product 
 ## Current Focus
 
 - Building **be-loved.app** to modernize non-emergency medical transportation.
-- Aspiring to design Network States
+- Aspiring to help design Network States
 
 ## Connect with Me
 
