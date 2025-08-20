@@ -42,4 +42,4 @@ I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product 
 - [GitHub](https://github.com/sailorjacob)
 - [X](https://x.com/rationmachine)
 
-I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into AI, fine art, or designing the world
+I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into ai, fine art, or design!
