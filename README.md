@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/94732917?v=4" alt="Jacob" width="150" height="150">
 
-I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product design, and prompting** to build special projects. My work inspired [**fooji**](https://fooji.com/)’s pivot to a million-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. My projects include [**ammocat3000**](https://ammocat3000.com), [**jacobhalestudio.net**](https://jacobhalestudio.net), [**haven.engineer**](https://haven.engineer), [**lisa mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), & [**c-d art gallery**](https://comparison=deserving.net)
+I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product design, and prompting** to build special projects. My work inspired [**fooji**](https://fooji.com/)’s pivot to a million-dollar ad model. I design everything from signed music artists websites to software front-end for healthcare. New projects include [**ammocat3000**](https://ammocat3000.com), [**jacobhalestudio.net**](https://jacobhalestudio.net), [**haven.engineer**](https://haven.engineer), [**lisa mona**](https://www.youtube.com/watch?v=0WxiY5idz-Q&list=OLAK5uy_k9Z0xjH9Dl3RkjzwKESBF3lQVsXwqDMGA), & [**c-d art gallery**](https://comparison=deserving.net)
 
 ## about 
 
