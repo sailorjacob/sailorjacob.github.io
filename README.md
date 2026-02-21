@@ -40,6 +40,6 @@ I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product 
 - [Website](https://haven.engineer)
 - [LinkedIn](https://www.linkedin.com/in/jacobhalestudio)
 - [GitHub](https://github.com/sailorjacob)
-- [X](https://x.com/rationmachine)
+- [X](https://x.com/cdeserving)
 
 I’m driven by **learning, earning, providing, and pushing boundaries**. Let’s connect if you’re into ai, fine art, or design!
