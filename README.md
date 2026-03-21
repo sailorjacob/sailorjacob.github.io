@@ -8,7 +8,7 @@ I'm a **Artist & Entrepreneur** blending **imagery, history, aesthetic, product 
 - **entrepreneur**: Building be-loved.app to modernize non-emergency medical transportation.
 - **storyteller**:  stop-motion animations, music videos.
 
-## interests
+## interests 
 
 - **audio production**: production, mixing, ableton
 - **graphic design**: photoshop, pixlr, product
